@@ -18,7 +18,10 @@ const foodRouter = require('./routes/food');
 app.use(gamesRouter); 
 app.use(foodRouter);
 
+app.get('/', (req, res) => {
+  res.status(200).send('everything is awesome ')
 
+})
 
 
 
