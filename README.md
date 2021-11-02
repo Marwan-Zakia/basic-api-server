@@ -15,9 +15,17 @@ and i made 2 middleware files
 
 i made test files to check all routes work properly
 
+* for testing
+-------------
+/games
+
+/food
+
+{"foodName": "YourFood"}
+
+{"gamesName": "cod"}
+
+PR link : https://github.com/Marwan-Zakia/basic-api-server/pull/2
 
 
-
-
-
-PR link : 
+heroku link : https://marwanbasic-api-server.herokuapp.com/
